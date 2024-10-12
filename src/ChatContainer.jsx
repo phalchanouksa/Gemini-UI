@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from "react";
 import axios from "axios";
 import MessageList from "./MessageList";
 import ChatInput from "./ChatInput";
-import "./app.css";
+import "./App.css";
 
 function ChatContainer() {
   const [question, setQuestion] = useState("");

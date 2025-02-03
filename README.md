@@ -1,8 +1,3 @@
-# React + Vite
+Gemini API UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project provides a simple and intuitive user interface (UI) for interacting with the Gemini API. It allows users to send requests to the Gemini API and view responses in a clean and visually appealing way. 
